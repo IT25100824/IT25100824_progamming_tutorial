@@ -5,6 +5,7 @@ class Calculator{
             return i + j;
         }
 
+        
         //multiply
         public static int multiply(int f,int g){
             return f*g;

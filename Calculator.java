@@ -19,6 +19,7 @@ class Calculator{
             // (3 ∗4+5∗7)^2
             double result1 = square(add(multiply(3,4), multiply(5,7)));
             System.out.println("result1: " + result1);
+                 System.out.println();
 
             // (4+7)^2+(8+3)^2
             double result2 = add(square(add(4,7)), square(add(8,3)));
